@@ -1,6 +1,11 @@
 # PyGoat
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/lavikara/pygoat-github-actions/badge)](https://scorecard.dev/viewer/?uri=github.com/lavikara/pygoat-github-actions)
 
+
+
+
+curl -o wazuh-agent-4.14.7-1.x86_64.rpm https://packages.wazuh.com/4.x/yum/wazuh-agent-4.14.7-1.x86_64.rpm && sudo WAZUH_MANAGER='100.87.127.65' WAZUH_AGENT_NAME='LDAP' rpm -ihv wazuh-agent-4.14.7-1.x86_64.rpm
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
